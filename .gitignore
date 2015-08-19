@@ -4,4 +4,7 @@
 /.idea/libraries
 .DS_Store
 /build
+beartransit.jks
+app-release.apk
+/app/app-release.apk
 /captures
